@@ -1,0 +1,141 @@
+body{
+	background: black;
+}
+/*navbar settings*/
+.amadermenu ul li a{
+	font-size: 30px;
+	color: darkgoldenrod;
+	margin-left: 60px;
+	margin-right: 15px;
+}
+/*navbar finish*/
+
+/*img settings*/
+#yuy{
+	width: 98%;
+    height: 850px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 50px;
+}
+/*img setting finish*/
+
+/*list of q start*/
+.mainwords_start{
+	font-size: 29px;
+    color: white;
+    margin-left: 90px;
+    margin-right: 170px;
+}
+
+.articletag p{
+	font-size: 27px;
+	color: peachpuff;
+}
+
+.articletag b{
+	font-size: 23px;
+}
+.animation_heading{
+	color: cornsilk;
+}
+
+.list_of_stars dt{
+	font-size: 25px;
+	color: papayawhip;
+}
+.list_of_stars dd{
+	font-size: 20px;
+	color: silver;
+}
+/*list of q finish*/
+
+/*questions answer start*/
+
+/*.one_no{
+	font-size: 25px;
+	color: lightblue;
+}*/
+
+/*.question_no{
+	font-size: 23px;
+	color: lightblue;
+}*/
+
+.one_no{
+	font-size: 25px;
+	color: lightblue;
+}
+
+.question_no{
+	font-size: 23px;
+	color: lightblue;
+}
+
+.full_question{
+	font-size: 23px;
+	color: lightblue;
+	margin: 1px solid;
+}
+.two_no_q{
+	font-size: 25px;
+	color: mistyrose;
+}
+.two_no_ans{
+	font-size: 23px;
+	color: mistyrose;
+}
+
+.third_no_q{
+	font-size: 25px;
+	color: mistyrose;
+}
+.third_no_ans{
+	font-size: 23px;
+	color: mistyrose;
+}
+
+.four_no_q{
+	font-size: 25px;
+	color: white;
+}
+.four_no_ans{
+	font-size: 23px;
+	color: white;
+}
+
+
+.five_no_q{
+	font-size: 25px;
+	color: white;
+}
+.five_no_ans{
+	font-size: 23px;
+	color: white;
+}
+
+.six_no_q{
+	font-size: 25px;
+	color: white;
+}
+.six_no_ans{
+	font-size: 23px;
+	color: white;
+}
+
+.seven_no_q{
+	font-size: 25px;
+	color: white;
+}
+.seven_no_ans{
+	font-size: 23px;
+	color: white;
+}
+
+.nseve_no_q{
+	font-size: 25px;
+	color: lightblue;
+}
+.nseve_no_ans{
+	font-size: 23px;
+	color: lightblue;
